@@ -8,3 +8,12 @@
 .sec-slider-btn{
    background: rgb(185, 6, 170) ;
 }
+span{
+    color: #289BDE;
+}
+@media only screen and  (max-width: 576px) {
+    img{
+        width:100%;
+    }
+    
+}
