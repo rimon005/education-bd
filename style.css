@@ -18,9 +18,17 @@ span{
 .register{
     height: 200px;
 }
+footer{
+    background:#161616;
+    ;
+}
 @media only screen and  (max-width: 576px) {
     img{
         width:100%;
+    }
+    .footer-icon img {
+        width: 5%;
+
     }
     
 }
